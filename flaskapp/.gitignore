@@ -1,0 +1,15 @@
+/flask.log
+/Dockerfile_user
+**/__pycache__/
+__pycache__/
+
+/app/uploads/rc_ocr/*
+/app/uploads/plate_blur/*
+!.gitignore
+
+/app/config.py
+
+
+/Dockerfile_user
+/Mask_RCNN
+/keras-retinanet/

@@ -1,0 +1,14 @@
+/flask.log
+/Dockerfile_user
+**/__pycache__/
+
+app/uploads/rc_ocr*
+!.gitignore
+
+/app/config.py
+
+/Dockerfile_user
+/Mask_RCNN
+/data
+/.vscode
+**/.ipynb_checkpoints/
