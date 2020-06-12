@@ -12,6 +12,7 @@ This is a simple OCR to extract information from images. The code in this repo w
 ## Getting started
 1. clone this repo
 2. install dependencies -> requirements.txt 
+3. download and extract pretrained model [here](https://drive.google.com/file/d/1d5LNHDb5FJPzsXaUDXZlMffzCmMC17_M/view?usp=sharing)
 3. run ```python run.py``` to start the webserver
 4. pass the image to the API using the program of your choice (request, postman, etc.)
  - example using request
