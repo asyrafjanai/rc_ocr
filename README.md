@@ -1,9 +1,12 @@
-# Simple optical character recognition (OCR) for car registration card (RC)
+# Optical character recognition (OCR) for car registration card (RC)
 
 ## Description:
+This is a simple OCR to extract information from images. The code in this repo will od the following: 
+
 1. Extract some important information from RC images
 2. Pass image through API to webserver running the OCR model.
 3. Model is pretrained using [keras-ocr](https://github.com/faustomorales/keras-ocr), and served using flask framework
+4. Information from image (no pendaftaran, chasis, nombor enjin, dll) is extracted using fuzzy matching and regex
 
 
 ## Getting started
