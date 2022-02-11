@@ -16,7 +16,7 @@ numpy==1.18.1
 opt-einsum==3.0.1
 opencv-python==4.1.2.30
 pipenv==2018.11.26
-protobuf==3.9.1
+protobuf==3.15.0
 python-dateutil==2.8.0
 pyxdg==0.26
 PyYAML==5.1.2
